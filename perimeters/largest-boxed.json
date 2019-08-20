@@ -1,0 +1,415 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "IRWINID": "{B8D9BDC9-4E15-4D16-8168-C77BDCAC01E7}",
+        "MAPMETHOD": "Image Interpretation",
+        "UNITIDPROT": "AKSWS",
+        "UNITIDOWN": "AKAKS",
+        "INCIDENTID": "2019-AKSWS-904174",
+        "FIRENAME": "Old Grouch Top",
+        "PERDATTIME": "2019/07/17",
+        "COMMENTS": "Perimeter updated using Sentinel-2 imagery; submitted by DOF; Pulled from EGP REST Service",
+        "AGENCY": "DVF",
+        "ACTIVE": "N",
+        "LATEST": "Y",
+        "COMPPARID": null,
+        "FIREYEAR": "2019",
+        "DATECRNT": "2019/07/18",
+        "INCIWEBID": null,
+        "FIRECODE": "MCS3",
+        "COMPFIRECD": null,
+        "FIRENUM": "000174",
+        "COMPLEXNM": null,
+        "STATE": "AK",
+        "INCOMPLEX": "N",
+        "GISACRES": 307968.60852,
+        "MERGEID": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.46453317439955,
+          63.058395751029785
+        ]
+      },
+      "bbox": [
+        -158.0897615765117,
+        62.785055104628384,
+        -157.06983339371985,
+        63.401523204713214
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "IRWINID": "{5D7C1283-D2F2-417E-8B78-F73ABEAB84FE}",
+        "MAPMETHOD": "Remote Sensing Derived",
+        "UNITIDPROT": "AKUYD",
+        "UNITIDOWN": "AKARR",
+        "INCIDENTID": "2019-AKUYD-000367",
+        "FIRENAME": "Frozen Calf",
+        "PERDATTIME": "2019/08/11",
+        "COMMENTS": "Sentinel 2 8/8; Pulled from EGP REST Service",
+        "AGENCY": "BLM",
+        "ACTIVE": "N",
+        "LATEST": "Y",
+        "COMPPARID": "{4E3207C5-B302-4ED4-9D08-2BD627FD7928}",
+        "FIREYEAR": "2019",
+        "DATECRNT": "2019/08/12",
+        "INCIWEBID": null,
+        "FIRECODE": "MB2L",
+        "COMPFIRECD": null,
+        "FIRENUM": "000367",
+        "COMPLEXNM": "Chalkyitsik Complex",
+        "STATE": "AK",
+        "INCOMPLEX": "Y",
+        "GISACRES": 240543.855621,
+        "MERGEID": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -143.29454824249885,
+          66.75340606619919
+        ]
+      },
+      "bbox": [
+        -143.72365747381076,
+        66.58273855810864,
+        -142.15872599915656,
+        66.93652835651784
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "IRWINID": "{4AB4BF76-9D3B-4C1C-90B0-4BC9EE81B40A}",
+        "MAPMETHOD": "GPS-Flight",
+        "UNITIDPROT": "AKUYD",
+        "UNITIDOWN": "AKAKS",
+        "INCIDENTID": "2019-AKUYD-000324",
+        "FIRENAME": "Hess Creek",
+        "PERDATTIME": "2019/07/31",
+        "COMMENTS": "Helicopter Flight; Pulled from EGP REST Service",
+        "AGENCY": "BLM",
+        "ACTIVE": "N",
+        "LATEST": "Y",
+        "COMPPARID": null,
+        "FIREYEAR": "2019",
+        "DATECRNT": "2019/08/01",
+        "INCIWEBID": null,
+        "FIRECODE": "MBT1",
+        "COMPFIRECD": null,
+        "FIRENUM": "000324",
+        "COMPLEXNM": null,
+        "STATE": "AK",
+        "INCOMPLEX": "N",
+        "GISACRES": 189369.031126,
+        "MERGEID": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.3060369327886,
+          65.59195197928595
+        ]
+      },
+      "bbox": [
+        -148.64006905263787,
+        65.47060142233488,
+        -147.63471689169836,
+        65.77033160103633
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "IRWINID": "{2F2D5842-7ED0-41E2-A6A9-41B6360730A4}",
+        "MAPMETHOD": "Remote Sensing Derived",
+        "UNITIDPROT": "AKUYD",
+        "UNITIDOWN": "AKDYN",
+        "INCIDENTID": "2019-AKUYD-000407",
+        "FIRENAME": "Bearnose Hill",
+        "PERDATTIME": "2019/08/11",
+        "COMMENTS": "Sentinel 2 8/8; Pulled from EGP REST Service",
+        "AGENCY": "BLM",
+        "ACTIVE": "N",
+        "LATEST": "Y",
+        "COMPPARID": "{4E3207C5-B302-4ED4-9D08-2BD627FD7928}",
+        "FIREYEAR": "2019",
+        "DATECRNT": "2019/08/12",
+        "INCIWEBID": null,
+        "FIRECODE": "MCS7",
+        "COMPFIRECD": null,
+        "FIRENUM": "000407",
+        "COMPLEXNM": "Chalkyitsik Complex",
+        "STATE": "AK",
+        "INCOMPLEX": "Y",
+        "GISACRES": 130768.800901,
+        "MERGEID": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -143.55318101587176,
+          66.48665809131633
+        ]
+      },
+      "bbox": [
+        -143.95705442032352,
+        66.40693450629817,
+        -142.7996314960784,
+        66.71086282457645
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "IRWINID": "{852CA751-B8AB-4D83-9B1D-8D4C4924472B}",
+        "MAPMETHOD": "Mixed Methods",
+        "UNITIDPROT": "AZTNF",
+        "UNITIDOWN": "AZTNF",
+        "INCIDENTID": "2019-AZTNF-000579",
+        "FIRENAME": "Woodbury",
+        "PERDATTIME": "2019/06/27",
+        "COMMENTS": "Pulled from EGP REST Service",
+        "AGENCY": "FS",
+        "ACTIVE": "N",
+        "LATEST": "Y",
+        "COMPPARID": null,
+        "FIREYEAR": "2019",
+        "DATECRNT": "2019/06/27",
+        "INCIWEBID": "6382",
+        "FIRECODE": "L951",
+        "COMPFIRECD": null,
+        "FIRENUM": "000579",
+        "COMPLEXNM": null,
+        "STATE": "AZ",
+        "INCOMPLEX": "N",
+        "GISACRES": 123499.167515,
+        "MERGEID": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.19573642166863,
+          33.522836563109706
+        ]
+      },
+      "bbox": [
+        -111.37104994382014,
+        33.365452312793536,
+        -110.97810689547174,
+        33.67452899981379
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "IRWINID": "{5a43d800-ea23-4da8-8ccb-a78bcf216e19}",
+        "MAPMETHOD": "Mixed Methods",
+        "UNITIDPROT": "IDINE",
+        "UNITIDOWN": "IDIFD",
+        "INCIDENTID": "2019-IDINE-000081",
+        "FIRENAME": "Sheep",
+        "PERDATTIME": "2019/07/29",
+        "COMMENTS": "perim from 7/24 heads-up corrected on 7/25 by mmavor; Pulled from EGP REST Service",
+        "AGENCY": null,
+        "ACTIVE": "N",
+        "LATEST": "Y",
+        "COMPPARID": null,
+        "FIREYEAR": "2019",
+        "DATECRNT": "2019/07/29",
+        "INCIWEBID": null,
+        "FIRECODE": "MG0M",
+        "COMPFIRECD": null,
+        "FIRENUM": "00MG0M",
+        "COMPLEXNM": null,
+        "STATE": "ID",
+        "INCOMPLEX": "N",
+        "GISACRES": 112168.216554,
+        "MERGEID": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.69533022716415,
+          43.648284738112324
+        ]
+      },
+      "bbox": [
+        -112.93811153722112,
+        43.51307360016739,
+        -112.51455800037854,
+        43.73986999981537
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "IRWINID": "{DE7F7137-3514-4B13-8665-405EE4E748CC}",
+        "MAPMETHOD": "Remote Sensing Derived",
+        "UNITIDPROT": "AKGAD",
+        "UNITIDOWN": "AKADD",
+        "INCIDENTID": "2019-AKGAD-000218",
+        "FIRENAME": "North River",
+        "PERDATTIME": "2019/08/08",
+        "COMMENTS": "Perimeter updated using Sentinel 2 image collected 8/4; Pulled from EGP REST Service",
+        "AGENCY": "BLM",
+        "ACTIVE": "N",
+        "LATEST": "Y",
+        "COMPPARID": null,
+        "FIREYEAR": "2019",
+        "DATECRNT": "2019/08/09",
+        "INCIWEBID": null,
+        "FIRECODE": "L987",
+        "COMPFIRECD": null,
+        "FIRENUM": "000218",
+        "COMPLEXNM": null,
+        "STATE": "AK",
+        "INCOMPLEX": "N",
+        "GISACRES": 111898.135041,
+        "MERGEID": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.32711970353233,
+          65.22844661317967
+        ]
+      },
+      "bbox": [
+        -160.6190876538357,
+        65.09387382812798,
+        -159.98700476419182,
+        65.36650830791314
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "IRWINID": "{35C99EB2-11E7-46E7-9FCE-CB72DCD67C8E}",
+        "MAPMETHOD": "Remote Sensing Derived",
+        "UNITIDPROT": "AKUYD",
+        "UNITIDOWN": "AKEID",
+        "INCIDENTID": "2019-AKUYD-000262",
+        "FIRENAME": "Black River",
+        "PERDATTIME": "2019/08/14",
+        "COMMENTS": "Perimeter updated using Landsat 8 image collected 8/8; Pulled from EGP REST Service",
+        "AGENCY": "BLM",
+        "ACTIVE": "N",
+        "LATEST": "Y",
+        "COMPPARID": null,
+        "FIREYEAR": "2019",
+        "DATECRNT": "2019/08/15",
+        "INCIWEBID": null,
+        "FIRECODE": "MA8Q",
+        "COMPFIRECD": null,
+        "FIRENUM": "000262",
+        "COMPLEXNM": null,
+        "STATE": "AK",
+        "INCOMPLEX": "N",
+        "GISACRES": 107078.315051,
+        "MERGEID": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -142.01429073509607,
+          66.0856989337936
+        ]
+      },
+      "bbox": [
+        -142.3661004436263,
+        65.94914455180043,
+        -141.5661476750763,
+        66.23053890136367
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "IRWINID": "{836450FA-2D41-41A0-B38F-5A4B17766214}",
+        "MAPMETHOD": "Infrared Image",
+        "UNITIDPROT": "AKKKS",
+        "UNITIDOWN": "AKKNR",
+        "INCIDENTID": "2019-AKKKS-903181",
+        "FIRENAME": "Swan Lake",
+        "PERDATTIME": "2019/08/07",
+        "COMMENTS": null,
+        "AGENCY": "DVF",
+        "ACTIVE": "Y",
+        "LATEST": "Y",
+        "COMPPARID": null,
+        "FIREYEAR": "2019",
+        "DATECRNT": "2019/08/08",
+        "INCIWEBID": "6387",
+        "FIRECODE": "L92Q",
+        "COMPFIRECD": null,
+        "FIRENUM": "903181",
+        "COMPLEXNM": null,
+        "STATE": "AK",
+        "INCOMPLEX": "N",
+        "GISACRES": 102267.040108,
+        "MERGEID": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.21228053531567,
+          60.631944541899045
+        ]
+      },
+      "bbox": [
+        -150.52916912053894,
+        60.524184653971076,
+        -149.95085848497826,
+        60.72888620573667
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "IRWINID": "{CEF0C223-47A9-4503-8F98-EE79F22B1D33}",
+        "MAPMETHOD": "Image Interpretation",
+        "UNITIDPROT": "AKTAD",
+        "UNITIDOWN": "AKNOR",
+        "INCIDENTID": "2019-AKTAD-000316",
+        "FIRENAME": "Little Mud River",
+        "PERDATTIME": "2019/08/09",
+        "COMMENTS": "Sentinel 2; Pulled from EGP REST Service",
+        "AGENCY": "BLM",
+        "ACTIVE": "N",
+        "LATEST": "Y",
+        "COMPPARID": null,
+        "FIREYEAR": "2019",
+        "DATECRNT": "2019/08/10",
+        "INCIWEBID": null,
+        "FIRECODE": "MBR5",
+        "COMPFIRECD": null,
+        "FIRENUM": "000316",
+        "COMPLEXNM": null,
+        "STATE": "AK",
+        "INCOMPLEX": "N",
+        "GISACRES": 96495.5995873,
+        "MERGEID": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -153.2015427402142,
+          64.86358348802803
+        ]
+      },
+      "bbox": [
+        -153.67050341566295,
+        64.7994237140017,
+        -152.67059292763167,
+        64.93986582940869
+      ]
+    }
+  ]
+}
